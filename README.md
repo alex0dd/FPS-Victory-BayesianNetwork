@@ -14,5 +14,5 @@ pip install pgmpy
 Note: pgmpy requires PyTorch, which can mess your CUDA installation, so we recommend running it as a Colab notebook.
 
 # Code
-The code is available as a jupyter notebook in ![FPS_Victory_model.ipynb](
+The code with model's detailed description is available as a jupyter notebook in ![FPS_Victory_model.ipynb](
 FPS_Victory_model.ipynb) file.
